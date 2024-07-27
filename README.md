@@ -22,3 +22,14 @@ https://github.com/William2716057/toBinarySound.git
 ```
 pip install numpy pyaudio
 ```
+
+## Usage
+1. Run the script:
+```
+python toBinarySound
+```
+2. Input your message when prompted:
+```
+Input message: Hello World
+```
+3. 

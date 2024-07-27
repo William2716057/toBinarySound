@@ -32,4 +32,10 @@ python toBinarySound
 ```
 Input message: Hello World
 ```
-3. 
+3. Listen to the generated tones.
+
+## How It Works
+- Input Message: The user inputs a message.
+- Binary Conversion: Each character of the message is converted to its binary representation.
+- Tone Generation: A sine wave tone is generated for each bit. The frequency for '1' is set to 440 Hz and for '0' is set to 500 Hz.
+- Play Sound: The generated tones are played sequentially through the system's audio output.

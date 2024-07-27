@@ -39,3 +39,6 @@ Input message: Hello World
 - Binary Conversion: Each character of the message is converted to its binary representation.
 - Tone Generation: A sine wave tone is generated for each bit. The frequency for '1' is set to 440 Hz and for '0' is set to 500 Hz.
 - Play Sound: The generated tones are played sequentially through the system's audio output.
+
+## Contributing
+Contributions are welcome. Please feel free to submit a Pull Request.

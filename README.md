@@ -13,3 +13,12 @@ This Python script converts an input text message into its binary representation
 
 ## Installation
 
+1. Clone the repository:
+
+```
+
+```
+2. Install the required libraries:
+```
+pip install numpy pyaudio
+```

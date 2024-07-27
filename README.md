@@ -16,7 +16,7 @@ This Python script converts an input text message into its binary representation
 1. Clone the repository:
 
 ```
-
+https://github.com/William2716057/toBinarySound.git
 ```
 2. Install the required libraries:
 ```
